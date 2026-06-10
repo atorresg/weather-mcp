@@ -1,6 +1,6 @@
 {
   "name": "@atorresg/weather-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "mcpName": "io.github.atorresg/weather-mcp",
   "description": "Weather MCP Server, giving LLMs weather forecast capabilities (current conditions, daily forecast, hourly data) via Open-Meteo (free, no API key required).",
   "private": false,
