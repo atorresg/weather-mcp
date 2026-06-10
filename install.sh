@@ -17,7 +17,7 @@ RELEASES_BASE="https://github.com/atorresg"
 
 # server -> "owner/repo:asset-filename"
 TARBALLS_LOCATION="location-mcp:location-mcp-0.1.1.tgz"
-TARBALLS_WEATHER="weather-mcp:weather-mcp-1.0.2.tgz"
+TARBALLS_WEATHER="weather-mcp:atorresg-weather-mcp-1.0.2.tgz"
 BIN_NAME_LOCATION="location-mcp"
 BIN_NAME_WEATHER="weather-mcp"
 
