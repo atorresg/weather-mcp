@@ -1,0 +1,16 @@
+node_modules/
+dist/
+logs/
+coverage/
+tmp/
+temp/
+package-lock.json
+.eslintcache
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tsbuildinfo
+*.log
+.mcpregistry_*
+.DS_Store
